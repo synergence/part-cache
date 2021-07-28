@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/partcache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typings for Eti's PartCache module",
   "main": "out/init.lua",
   "scripts": {
