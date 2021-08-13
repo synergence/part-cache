@@ -1,4 +1,4 @@
-import { PartCache } from 'class';
+import { PartCache } from './class';
 
 interface PartCacheConstructor {
 	/**
